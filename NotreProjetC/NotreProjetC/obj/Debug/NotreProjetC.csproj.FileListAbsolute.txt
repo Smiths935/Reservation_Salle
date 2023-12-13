@@ -1,0 +1,16 @@
+c:\users\geek.t.f\documents\visual studio 2015\Projects\NotreProjetC\NotreProjetC\bin\Debug\NotreProjetC.exe.config
+c:\users\geek.t.f\documents\visual studio 2015\Projects\NotreProjetC\NotreProjetC\bin\Debug\NotreProjetC.exe
+c:\users\geek.t.f\documents\visual studio 2015\Projects\NotreProjetC\NotreProjetC\bin\Debug\NotreProjetC.pdb
+c:\users\geek.t.f\documents\visual studio 2015\Projects\NotreProjetC\NotreProjetC\obj\Debug\NotreProjetC.Properties.Resources.resources
+c:\users\geek.t.f\documents\visual studio 2015\Projects\NotreProjetC\NotreProjetC\obj\Debug\NotreProjetC.csproj.GenerateResource.Cache
+c:\users\geek.t.f\documents\visual studio 2015\Projects\NotreProjetC\NotreProjetC\obj\Debug\NotreProjetC.exe
+c:\users\geek.t.f\documents\visual studio 2015\Projects\NotreProjetC\NotreProjetC\obj\Debug\NotreProjetC.pdb
+C:\Users\GEEK.T.F\Documents\Visual Studio 2015\Projects\NotreProjetC\NotreProjetC\bin\Debug\MySql.Data.dll
+C:\Users\GEEK.T.F\Documents\Visual Studio 2015\Projects\NotreProjetC\NotreProjetC\bin\Debug\Guna.UI2.dll
+C:\Users\GEEK.T.F\Documents\Visual Studio 2015\Projects\NotreProjetC\NotreProjetC\bin\Debug\Guna.Charts.WinForms.dll
+C:\Users\GEEK.T.F\Documents\Visual Studio 2015\Projects\NotreProjetC\NotreProjetC\bin\Debug\Guna.Charts.WinForms.xml
+C:\Users\GEEK.T.F\Documents\Visual Studio 2015\Projects\NotreProjetC\NotreProjetC\obj\Debug\NotreProjetC.Form1.resources
+C:\Users\GEEK.T.F\Documents\Visual Studio 2015\Projects\NotreProjetC\NotreProjetC\obj\Debug\NotreProjetC.csprojResolveAssemblyReference.cache
+C:\Users\GEEK.T.F\Documents\Visual Studio 2015\Projects\NotreProjetC\NotreProjetC\obj\Debug\NotreProjetC.screens.AddProf.resources
+C:\Users\GEEK.T.F\Documents\Visual Studio 2015\Projects\NotreProjetC\NotreProjetC\obj\Debug\NotreProjetC.screens.add.AddSalle.resources
+C:\Users\GEEK.T.F\Documents\Visual Studio 2015\Projects\NotreProjetC\NotreProjetC\obj\Debug\NotreProjetC.screens.list.FormSalle.resources
